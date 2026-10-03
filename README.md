@@ -1,6 +1,6 @@
 # Hi, I'm Mohd Farhan 👋
 
-### AI/ML Developer | Medical AI | Computer Vision | Multimodal Learning | Explainable AI
+### Data Analyst | AI/ML Developer | Medical AI | Computer Vision | Multimodal Learning
 
 I build machine-learning systems with a focus on **medical imaging, computer vision, multimodal AI, and trustworthy model evaluation**.
 
@@ -23,6 +23,26 @@ My work includes deep-learning classification, medical visual question answering
 ---
 
 ## 🚀 Featured Projects
+
+### 📊 E-commerce Revenue & Customer Analytics
+
+**SQL · Python · Pandas · Power BI · Cohort Analysis · RFM Segmentation**
+
+An end-to-end business analytics case study using the Olist Brazilian e-commerce dataset, covering revenue KPIs, customer retention, product and state performance, payment behaviour, and delivery-service analysis.
+
+Highlights:
+
+- 96,478 delivered orders analysed
+- R$13.22M merchandise revenue
+- SQL CTEs and window functions
+- Cohort retention and RFM segmentation
+- Delivery vs customer-review analysis
+- Power BI-ready analytical tables
+- Evidence-based executive recommendations
+
+➡️ [View repository](https://github.com/farhancode1/Ecommerce-Revenue-Customer-Analytics)
+
+---
 
 ### 🩺 Skin Lesion Classification with Explainable AI
 
