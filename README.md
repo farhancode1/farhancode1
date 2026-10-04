@@ -7,7 +7,7 @@
 I turn data into **business insights** and build **interpretable machine-learning systems**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-farhancode1-181717?style=for-the-badge&logo=github)](https://github.com/farhancode1)
-![Profile Views](https://komarev.com/ghpvc/?username=farhancode1&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=farhancode1&label=%F0%9F%91%81%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
