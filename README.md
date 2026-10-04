@@ -1,153 +1,178 @@
-# Hi, I'm Mohd Farhan 👋
+<div align="center">
 
-### Data Analyst | AI/ML Developer | Medical AI | Computer Vision | Multimodal Learning
+# Mohd Farhan
 
-I build machine-learning systems with a focus on **medical imaging, computer vision, multimodal AI, and trustworthy model evaluation**.
+### Data Analyst • Machine Learning • Explainable AI
 
-My work includes deep-learning classification, medical visual question answering, vision-language models, transfer learning, explainability, and parameter-efficient fine-tuning.
+I turn data into **business insights** and build **interpretable machine-learning systems**.
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-farhancode1-181717?style=for-the-badge&logo=github)](https://github.com/farhancode1)
+![Profile Views](https://komarev.com/ghpvc/?username=farhancode1&style=for-the-badge)
 
-## 🔬 Areas I Work In
-
-- **Medical Artificial Intelligence**
-- **Computer Vision**
-- **Multimodal Learning**
-- **Vision-Language Models**
-- **Explainable AI (XAI)**
-- **Deep Learning**
-- **Transfer Learning**
-- **Parameter-Efficient Fine-Tuning**
-- **Model Evaluation & Error Analysis**
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 👋 About Me
 
-### 📊 E-commerce Revenue & Customer Analytics
+I work across **data analytics, machine learning, computer vision, and medical AI**. My portfolio combines business-focused analytics projects with deep-learning systems that emphasize **evaluation, explainability, and reproducibility**.
 
-**SQL · Python · Pandas · Power BI · Cohort Analysis · RFM Segmentation**
+**What I bring**
+- 📊 End-to-end data analysis with **Python, SQL, Pandas, and Power BI**
+- 🤖 Machine-learning and deep-learning model development
+- 🩺 Computer vision and multimodal AI for medical applications
+- 🔎 Explainable AI using **Grad-CAM, LIME, and counterfactual analysis**
+- 📈 Clear model evaluation, error analysis, and decision-focused reporting
 
-An end-to-end business analytics case study using the Olist Brazilian e-commerce dataset, covering revenue KPIs, customer retention, product and state performance, payment behaviour, and delivery-service analysis.
+---
 
-Highlights:
+## 🚀 Featured Portfolio
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [E-commerce Revenue & Customer Analytics](https://github.com/farhancode1/Ecommerce-Revenue-Customer-Analytics)
+
+**Python · SQL · Pandas · Power BI · RFM · Cohort Analysis**
+
+End-to-end analytics case study focused on revenue, customer behaviour, retention, product performance, payments, and delivery experience.
+
+**Key work**
 - 96,478 delivered orders analysed
-- R$13.22M merchandise revenue
+- R$13.22M merchandise revenue examined
 - SQL CTEs and window functions
-- Cohort retention and RFM segmentation
-- Delivery vs customer-review analysis
-- Power BI-ready analytical tables
-- Evidence-based executive recommendations
+- Cohort retention analysis
+- RFM customer segmentation
+- Power BI-ready analytical outputs
+- Business recommendations backed by data
 
-➡️ [View repository](https://github.com/farhancode1/Ecommerce-Revenue-Customer-Analytics)
+</td>
+<td width="50%" valign="top">
 
----
+### 🫁 [Pneumonia Classification with XAI](https://github.com/farhancode1/Pneumonia-Classification-XAI)
 
-### 🩺 Skin Lesion Classification with Explainable AI
+**CNN · VGG16 · ResNet50 · Grad-CAM · LIME**
 
-**ResNet-18 · PyTorch · Grad-CAM · Counterfactual Explanations · Gradio**
+Chest X-ray classification project comparing three deep-learning approaches and explaining predictions with complementary XAI methods.
 
-A seven-class dermoscopic skin-lesion classification project combining deep learning with model explainability.
-
-Highlights:
-
-- ImageNet-pretrained ResNet-18
-- Seven-class lesion classification
-- Class-imbalance handling
+**Key work**
+- Baseline CNN, VGG16 and ResNet50 comparison
+- Accuracy, precision, recall and F1 evaluation
+- Baseline CNN F1-score: **0.8705**
 - Grad-CAM visual explanations
-- Counterfactual / meaningful perturbation analysis
-- Confusion-matrix and class-sensitive evaluation
-- Interactive XAI dashboard
-- Explicit analysis of overfitting and model limitations
+- LIME local explanations
+- Clinical-AI limitations discussed explicitly
 
-➡️ [View repository](https://github.com/farhancode1/Skin-Lesion-Classification-XAI)
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-### 🧠 Medical Visual Question Answering
+### 🩺 [Skin Lesion Classification with XAI](https://github.com/farhancode1/Skin-Lesion-Classification-XAI)
 
-**CNN-GRU · PaliGemma · LoRA · VQA-RAD · Grad-CAM**
+**PyTorch · ResNet-18 · Grad-CAM · Gradio**
 
-A multimodal medical AI project comparing a conventional CNN-GRU baseline with a modern vision-language model.
+Seven-class dermoscopic image classification project combining transfer learning with explainability and model-error analysis.
 
-Highlights:
+**Key work**
+- ImageNet-pretrained ResNet-18
+- Seven-class classification
+- Class-imbalance handling
+- Grad-CAM explanations
+- Counterfactual / perturbation analysis
+- Confusion-matrix evaluation
+- Interactive XAI interface
 
-- Medical Visual Question Answering on VQA-RAD
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Medical Visual Question Answering](https://github.com/farhancode1/WOA7015-MedVQA)
+
+**CNN-GRU · PaliGemma · LoRA · VQA-RAD**
+
+Multimodal medical-AI project comparing a conventional CNN-GRU system with a vision-language model.
+
+**Key work**
 - CNN-GRU supervised baseline
 - PaliGemma zero-shot evaluation
-- PaliGemma + LoRA fine-tuning
-- Closed-ended and open-ended question analysis
+- LoRA fine-tuning
+- Open- vs closed-ended question analysis
 - Grad-CAM explainability
-- Accuracy, precision, recall, F1-score, and confusion-matrix evaluation
+- Accuracy, precision, recall and F1 evaluation
 
-➡️ [View repository](https://github.com/farhancode1/WOA7015-MedVQA)
-
----
-
-## 🛠️ Technical Stack
-
-### Programming & ML
-`Python` `PyTorch` `Torchvision` `Scikit-learn`
-
-### Vision & Multimodal AI
-`OpenCV` `Albumentations` `Transformers` `PEFT` `Vision-Language Models`
-
-### Data & Analysis
-`NumPy` `Pandas` `Matplotlib` `Seaborn`
-
-### Explainability
-`Grad-CAM` `Counterfactual Analysis` `Model Error Analysis`
-
-### Development
-`Jupyter Notebook` `Google Colab` `Git` `GitHub` `Gradio`
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 What I Care About
+## 🧰 Technical Toolkit
 
-I am especially interested in building AI systems that are not only accurate, but also **interpretable, reproducible, and carefully evaluated**.
+### Data Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-In medical AI, this means looking beyond a single accuracy number and examining:
+### Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-- failure cases,
-- class imbalance,
-- generalization,
-- uncertainty,
-- model attention,
-- prediction sensitivity,
-- and practical limitations.
-
----
-
-## 📚 Current Learning & Research Interests
-
-- Trustworthy AI for healthcare
-- Uncertainty-aware prediction
-- Explainable medical imaging
-- Multimodal medical AI
-- Vision-language models
-- Efficient fine-tuning of large models
-- Robust evaluation under limited data
+### Workflow
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 🤝 Open to Opportunities
+## 🎯 What I Focus On
 
-I am interested in opportunities involving:
+I like projects where the final output answers a useful question—not just projects that stop after training a model.
 
-**AI/ML · Computer Vision · Medical AI · Multimodal AI · Research Engineering · Applied Deep Learning**
+My work currently centers on:
 
-I am also open to research collaboration on trustworthy and explainable AI systems.
+**Data Analytics** → cleaning, EDA, SQL analysis, segmentation, KPI reporting, dashboards and decision support
 
----
+**Machine Learning** → classification, transfer learning, model comparison and robust evaluation
 
-## 📂 Explore My Work
+**Explainable AI** → understanding why a model predicts what it predicts instead of treating it as a black box
 
-You can find my projects and experiments across my repositories:
-
-👉 [github.com/farhancode1](https://github.com/farhancode1)
+**Medical AI** → computer vision, multimodal learning and responsible evaluation for healthcare applications
 
 ---
 
-> Building AI systems that are useful, explainable, and evaluated beyond headline accuracy.
+## 📌 Selected Strengths
+
+```text
+Data Analysis      ████████████████████  Python • SQL • Pandas • Power BI
+Machine Learning   ███████████████████░  PyTorch • Scikit-learn • Evaluation
+Computer Vision    ███████████████████░  CNNs • Transfer Learning • OpenCV
+Explainable AI     ██████████████████░░  Grad-CAM • LIME • Error Analysis
+Multimodal AI      █████████████████░░░  Vision-Language Models • LoRA
+```
+
+---
+
+## 💼 Open to Opportunities
+
+I am interested in roles and collaborations involving:
+
+**Data Analyst · Junior Data Scientist · Machine Learning · AI/ML · Computer Vision · Applied AI · Research**
+
+If you are reviewing my profile as a recruiter or collaborator, I recommend starting with the **E-commerce Revenue & Customer Analytics** project for business analytics and the **Pneumonia Classification XAI** project for applied machine learning.
+
+---
+
+<div align="center">
+
+### Build → Evaluate → Explain → Improve
+
+**Thanks for visiting my profile.**
+
+</div>
